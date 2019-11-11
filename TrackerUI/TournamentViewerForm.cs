@@ -16,5 +16,20 @@ namespace TrackerUI
         {
             InitializeComponent();
         }
+
+        private void TournamentViewerForm_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void RoundLabel_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void CheckBox1_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
