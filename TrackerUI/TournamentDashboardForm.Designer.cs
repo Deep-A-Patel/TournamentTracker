@@ -40,7 +40,7 @@
             this.headerLabel.AutoSize = true;
             this.headerLabel.Font = new System.Drawing.Font("Segoe UI Light", 28F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.headerLabel.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(153)))), ((int)(((byte)(255)))));
-            this.headerLabel.Location = new System.Drawing.Point(236, 131);
+            this.headerLabel.Location = new System.Drawing.Point(236, 90);
             this.headerLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.headerLabel.Name = "headerLabel";
             this.headerLabel.Size = new System.Drawing.Size(874, 112);
